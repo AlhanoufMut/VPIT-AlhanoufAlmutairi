@@ -1,0 +1,28 @@
+//
+//  Data.json
+//  VPIT
+//
+//  Created by Alhanouf Khalid on 05/12/1442 AH.
+//
+
+
+{
+    "code":200,
+    "meta":{"pagination":{"total":1676,"pages":84,"page":1,"limit":20}},
+    "data":
+    [
+        {"id":19,"name":"Aslesha Rana","email":"rana_aslesha@schumm-murazik.com","gender":"female","status":"inactive"},
+        {"id":21,"name":"Rev. Sukanya Trivedi","email":"trivedi_rev_sukanya@berge-lynch.org","gender":"male","status":"active"},
+        {"id":22,"name":"Giri Somayaji","email":"somayaji_giri@ebert.co","gender":"male","status":"active"},
+        {"id":23,"name":"Aatmaja Tagore VM","email":"vm_tagore_aatmaja@strosin.co","gender":"female","status":"inactive"},
+        {"id":24,"name":"Mrs. Rajendra Varman","email":"rajendra_mrs_varman@oconner.info","gender":"female","status":"active"},
+        {"id":25,"name":"Prof. Esha Guha","email":"guha_prof_esha@daugherty.biz","gender":"male","status":"inactive"},
+        {"id":26,"name":"Bhadrak Bharadwaj","email":"bharadwaj_bhadrak@graham-kiehn.biz","gender":"male","status":"inactive"},
+        {"id":28,"name":"Javas Khan","email":"khan_javas@douglas.name",
+            "gender":"female","status":"active"},
+        {"id":29,"name":"Rev. Narayan Mishra","email":"mishra_narayan_rev@davis-luettgen.biz","gender":"male","status":"inactive"},
+        {"id":31,"name":"Yogesh Nayar","email":"yogesh_nayar@medhurst-witting.io","gender":"male","status":"active"},
+        {"id":32,"name":"Laxmi Mukhopadhyay","email":"mukhopadhyay_laxmi@towne-pfeffer.name","gender":"female","status":"inactive"},{"id":33,"name":"Tej Butt","email":"butt_tej@cremin.info","gender":"male","status":"inactive"},{"id":34,"name":"Anil Varrier","email":"anil_varrier@gutmann.info","gender":"female","status":"active"},{"id":35,"name":"Chandramohan Pandey DVM","email":"pandey_chandramohan_dvm@corkery.io","gender":"female","status":"inactive"},{"id":37,"name":"Narayan Prajapat DVM","email":"prajapat_dvm_narayan@pagac.net","gender":"female","status":"active"},{"id":38,"name":"Prof. Subhash Mehra","email":"prof_subhash_mehra@corkery-lehner.biz","gender":"female","status":"active"},{"id":39,"name":"Jitendra Dubashi DDS","email":"dubashi_dds_jitendra@lemke-gutmann.info","gender":"male","status":"inactive"},{"id":40,"name":"Ambar Nehru","email":"nehru_ambar@dooley-cummerata.biz","gender":"female","status":"active"},{"id":41,"name":"Suma Pandey V","email":"suma_pandey_v@funk-hegmann.info","gender":"female","status":"active"},{"id":42,"name":"Madhuri Nambeesan III","email":"iii_nambeesan_madhuri@jerde.org","gender":"female","status":"inactive"}
+    ]
+    
+}
