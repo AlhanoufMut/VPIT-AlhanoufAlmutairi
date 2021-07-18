@@ -106,6 +106,9 @@ class UsersViewController : UIViewController, UITableViewDelegate, UITableViewDa
         cell.status.text = self.usersList[indexPath.row].status
         cell.gender.text = self.usersList[indexPath.row].gender
         cell.email.adjustsFontSizeToFitWidth = true
+        cell.name.adjustsFontSizeToFitWidth = true
+        cell.status.adjustsFontSizeToFitWidth = true
+        cell.gender.adjustsFontSizeToFitWidth = true
         cell.gender.text = cell.gender.text?.capitalized
         cell.status.text = cell.status.text?.capitalized
 
